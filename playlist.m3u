@@ -1,245 +1,251 @@
-
 #EXTM3U
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Zee_Telugu_HD_%282025%29.svg/revision/latest/scale-to-width-down/250?cb=20250609050138",zee telugu HD
-http://cache.internode.co.in:6081/ZeeTeluguHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Gemini_Life.jpg/revision/latest?cb=20240315132124",GEMINI LIFE
-https://livestream.sunnxt.com/a4b4f71a8b4344f3a280e906657a517a/GeminiLifeB_IN_index.mpd
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Zee_Telugu_HD_%282025%29.svg/revision/latest/scale-to-width-down/250?cb=20250609050138" tvg-id="(no tvg-id)" tvg-name="ZEETELUGU HD" ,ZEETELUGU HD
+http://cache.internode.co.in:6081/ZeeTeluguHD/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Star_Maa_HD.jpeg/revision/latest/scale-to-width-down/250?cb=20200817123350" tvg-id="(no tvg-id)" tvg-name="MAATV HD" ,MAATV HD
+http://activeiptv.sbs:80/play/live.php?mac=00:1A:79:BD:80:8F&stream=281777&extension=ts&play_token=98LxmV4WEX
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/HD.GEM.jpg/revision/latest?cb=20240314121537" tvg-id="(no tvg-id)" tvg-name="GEMINI HD " ,GEMINI HD
+http://starshare.one:80//live/Suryaaa/SURYAAAA/23315.ts
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/ETV_HD.png/revision/latest?cb=20171207205943" tvg-id="(no tvg-id)" tvg-name="ETV HD" ,ETV HD
+https://d2z3q47xzd535o.cloudfront.net/v1/manifest/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264-2_cloud_in/f520bb4e-4a3b-4c66-bd6e-d036c9dc4a65/3.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Star_Maa_Movies.jpg/revision/latest?cb=20240314164039" tvg-id="(no tvg-id)" tvg-name="MAA MOVIES" ,MAA MOVIES
+http://starshare.one:80//live/Suryaaa/SURYAAAA/9015.ts
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/y86SQZCC/images-(44).jpg" tvg-id="(no tvg-id)" tvg-name="SITI CABLE" ,SITI CABLE
+http://starshare.one:80//live/Suryaaa/SURYAAAA/136465.ts
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Zee_Cinemalu_HD_%282025%29.svg/revision/latest/scale-to-width-down/250?cb=20250609125017" tvg-id="(no tvg-id)" tvg-name="ZEE CENIMALU HD" ,ZEE CENIMALU HD
+http://cache.internode.co.in:6081/ZeeCinemaluHD/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Gemini_Movies_HD.jpg/revision/latest?cb=20171230113018" tvg-id="(no tvg-id)" tvg-name="GEMINI MOVIES JD" ,GEMINI MOVIES JD
+https://allinonereborn.xyz/push4k/live256.php?id=4591
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/Cxr0V7Fw/IMG-20260201-234230.jpg" tvg-id="(no tvg-id)" tvg-name="ETVCOMEDY" ,ETVCOMEDY
+https://cc-wie8j8y69d2uy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wie8j8y69d2uy/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Etv_Plus_HD.jpeg/revision/latest?cb=20200311103105" tvg-id="(no tvg-id)" tvg-name="ETV PLUS" ,ETV PLUS
+http://cache.internode.co.in:6081/ETVPLUS/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/ETV_Cinema_HD.jpg/revision/latest/scale-to-width-down/250?cb=20191115071911" tvg-id="(no tvg-id)" tvg-name="ETV CENIMA" ,ETV CENIMA
+http://cache.internode.co.in:6081/ETVCINEMA/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/HD.GMU.jpg/revision/latest?cb=20240314123740" tvg-id="(no tvg-id)" tvg-name="GEMINI MUSIC" ,GEMINI MUSIC
+http://starshare.one:80//live/Suryaaa/SURYAAAA/213.ts
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/StarMaa_Music.jpg/revision/latest?cb=20250713194918" tvg-id="(no tvg-id)" tvg-name="STAR MAA MUSIC TELUGU" ,STAR MAA MUSIC TELUGU
+http://activeiptv.sbs/play/live.php?mac=00:1A:79:BD:80:8F&stream=281778&extension=ts&play_token=Kn0VPdOiYz
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/wB6RrRCS/IMG-20260202-073016.jpg" tvg-id="(no tvg-id)" tvg-name="ETV MUSIC " ,ETV MUSIC
+https://cc-szivnms4rlah6.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szivnms4rlah6/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Gemini_Comedy.jpg/revision/latest?cb=20240314123939" tvg-id="(no tvg-id)" tvg-name="GEMINI COMEDY " ,GEMINI COMEDY
+http://starshare.one:80//live/Suryaaa/SURYAAAA/9042.ts
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/fbT3JCpy/IMG-20260131-171912.jpg" tvg-id="(no tvg-id)" tvg-name="ETV JOSH" ,ETV JOSH
+https://cc-wie8j8y69d2uy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wie8j8y69d2uy/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Etv_Abhi_hd.jpeg/revision/latest?cb=20200311102713" tvg-id="(no tvg-id)" tvg-name="ETV ABHIRUCHI HD" ,ETV ABHIRUCHI HD
+http://cache.internode.co.in:6081/ETVABHIRUCHI/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Etv-life-log.png/revision/latest?cb=20220524200006" tvg-id="(no tvg-id)" tvg-name="ETV LIFE" ,ETV LIFE
+http://cache.internode.co.in:6081/ETVLIFE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/htbgGwkZ/IMG-20260130-234726.jpg" tvg-id="(no tvg-id)" tvg-name="F&H " ,F&H
+http://cache.internode.co.in:6081/FAndH/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Vissa_TV.jpeg/revision/latest?cb=20191226110329" tvg-id="(no tvg-id)" tvg-name="VISSA TV" ,VISSA TV
+http://103.165.14.109:3500/live/734.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.imgur.com/BOhgz2T.png" tvg-id="(no tvg-id)" tvg-name="Studio Yuva" ,Studio Yuva
+https://mumt01.tangotv.in/STUDIOYUVA/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/Y9gLXB9D/images-(49).jpg" tvg-id="(no tvg-id)" tvg-name="VINODHAM HD" ,VINODHAM HD
 http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/HLk0xrZX/IMG-20260131-000000.jpg" tvg-id="(no tvg-id)" tvg-name=" supertv" ,supertv
+http://cache.internode.co.in:6081/supertv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/W3hrwMjZ/IMG-20260130-225021.jpg" tvg-id="(no tvg-id)" tvg-name="SVC HD" ,SVC HD
+http://cache.internode.co.in:6081/SVC/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/VLsZQhYD/images-(18).jpg" tvg-id="(no tvg-id)" tvg-name="RKTV" ,RKTV
 http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
-http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
-
-
-
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.imgur.com/yOPB7JB.png" tvg-id="(no tvg-id)" tvg-name="Studio One +" ,Studio One +
+https://cdn-1.pishow.tv/live/276/master.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/L638bnyJ/IMG-20260130-232217.jpg" tvg-id="(no tvg-id)" tvg-name="SDTV" ,SDTV
+http://cache.internode.co.in:6081/SDTV/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/nz5nRKFF/IMG-20260131-075027.jpg" tvg-id="(no tvg-id)" tvg-name="GEETV" ,GEETV
+http://cache.internode.co.in:6081/GeeTV/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/BZwrQsXw/IMG-20260130-233611.jpg" tvg-id="(no tvg-id)" tvg-name="ANJALI TV" ,ANJALI TV
+http://cache.internode.co.in:6081/AnjaliTV/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/MKYq6gJw/IMG-20260130-235012.jpg" tvg-id="(no tvg-id)" tvg-name="BCT NEWS" ,BCT NEWS
+http://cache.internode.co.in:6081/BCTNews/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/qMry5q2F/images-(48).jpg" tvg-id="(no tvg-id)" tvg-name="Cinemalu" ,Cinemalu
+http://cache.internode.co.in:6081/SSLCCinemalu/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/nzhz4ZK8/IMG-20260130-231910.jpg" tvg-id="(no tvg-id)" tvg-name="SSLCKathalu" ,SSLCKathalu
+http://cache.internode.co.in:6081/SSLCKathalu/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/PqCBGRQ9/images-(17).jpg" tvg-id="(no tvg-id)" tvg-name="BathukammaTV" ,BathukammaTV
+http://cache.internode.co.in:6081/BathukammaTV/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/HnxF9Wkb/IMG-20260131-000541.jpg" tvg-id="(no tvg-id)" tvg-name="Janapadalu" ,Janapadalu
+http://cache.internode.co.in:6081/Janapadalu/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/y8wfwYpg/IMG-20260130-235310.jpg" tvg-id="(no tvg-id)" tvg-name="DS9" ,DS9
+http://cache.internode.co.in:6081/ds9e/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/MTXhyKT4/IMG-20260131-000759.jpg" tvg-id="(no tvg-id)" tvg-name="MastiMusic" ,MastiMusic
+http://cache.internode.co.in:6081/MastiMusic/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/HnR5Vjyb/IMG-20260130-235544.jpg" tvg-id="(no tvg-id)" tvg-name="BCT MUSIC " ,BCT MUSIC
+http://cache.internode.co.in:6081/BCTMusic/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/C5GJ8Wj4/IMG-20260131-000934.jpg" tvg-id="(no tvg-id)" tvg-name="SSLCMusic" ,SSLCMusic
+http://cache.internode.co.in:6081/SSLCMusic/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/nhkkk75G/1770074949865.png" tvg-id="(no tvg-id)" tvg-name="DS9 MUSIC" ,DS9 MUSIC
+http://cache.internode.co.in:6081/Ds9music/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/ABN_Andhra_Jyothi.jpeg/revision/latest?cb=20191226131028" tvg-id="(no tvg-id)" tvg-name="ABN" ,ABN
+http://cache.internode.co.in:6081/ABNAJ/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/TV5_Telugu.png/revision/latest?cb=20240319095911" tvg-id="(no tvg-id)" tvg-name="TV5" ,TV5
+http://cache.internode.co.in:6081/TV5Telugu/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/TV9_India.png/revision/latest?cb=20240319070418" tvg-id="(no tvg-id)" tvg-name="TV9" ,TV9
+http://cache.internode.co.in:6081/9Telugu/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/NTV_India.png/revision/latest?cb=20240320184023" tvg-id="(no tvg-id)" tvg-name="NTVTelugu" ,NTVTelugu
+http://cache.internode.co.in:6081/NTVTelugu/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Sakshi_TV_2024.jpg/revision/latest?cb=20240313115850" tvg-id="(no tvg-id)" tvg-name="SAKSHITV " ,SAKSHITV
+http://cache.internode.co.in:6081/Bomsak/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/ETV_Andhra_Pradesh.png/revision/latest?cb=20240314105548" tvg-id="(no tvg-id)" tvg-name="ETVAP" ,ETVAP
+http://cache.internode.co.in:6081/ETVAP/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/ETV_Telangana.jpg/revision/latest?cb=20240314184618" tvg-id="(no tvg-id)" tvg-name="ETVTG" ,ETVTG
+http://cache.internode.co.in:6081/ETVTG/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/I_News.png/revision/latest?cb=20191226172058" tvg-id="(no tvg-id)" tvg-name="I NEWS" ,I NEWS
+https://cdn-1.pishow.tv/live/411/master.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/99_TV.jpeg/revision/latest?cb=20191227063545" tvg-id="(no tvg-id)" tvg-name="99tv" ,99tv
+https://cdn-1.pishow.tv/live/1211/master.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/6TV_Telangana.jpeg/revision/latest?cb=20191227064826" tvg-id="(no tvg-id)" tvg-name="6TVTelugu" ,6TVTelugu
+http://cache.internode.co.in:6081/6TVTelugu/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/V6_News.jpeg/revision/latest?cb=20191226111536" tvg-id="(no tvg-id)" tvg-name="V6NEWS" ,V6NEWS
+http://cache.internode.co.in:6081/V6News/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/T_News_Telangana.jpg/revision/latest?cb=20240319094440" tvg-id="(no tvg-id)" tvg-name="T NEWS " ,T NEWS
+http://cache.internode.co.in:6081/TNews/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/HMTV.jpeg/revision/latest?cb=20191226180256" tvg-id="(no tvg-id)" tvg-name="HMTV" ,HMTV
+https://cdn-1.pishow.tv/live/280/master.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Mahaa_News.jpeg/revision/latest?cb=20191226172752" tvg-id="(no tvg-id)" tvg-name="MahaNews" ,MahaNews
+http://cache.internode.co.in:6081/MahaNews/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Prime9_News.jpeg/revision/latest?cb=20191227061811" tvg-id="(no tvg-id)" tvg-name="Prime9News" ,Prime9News
+http://cache.internode.co.in:6081/Prime9News/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Swatantra_TV_Logo.png/revision/latest?cb=20251117211049" tvg-id="(no tvg-id)" tvg-name="SwatantraTV" ,SwatantraTV
+http://cache.internode.co.in:6081/SwatantraTV/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/10tv.png/revision/latest?cb=20210508140052" tvg-id="(no tvg-id)" tvg-name="10TV" ,10TV
+http://cache.internode.co.in:6081/10TV/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/News9_.png/revision/latest?cb=20240319083602" tvg-id="(no tvg-id)" tvg-name="News9" ,News9
+http://cache.internode.co.in:6081/News9/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/CVR_News.jpeg/revision/latest?cb=20191227040840" tvg-id="(no tvg-id)" tvg-name="CVRNews" ,CVRNews
+http://cache.internode.co.in:6081/CVRNews/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Big_TV_Logo.jpg" tvg-id="(no tvg-id)" tvg-name="BIGTV" ,BIGTV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/big-tv/index.m3u8?ads.vf=lIf8R_GSaTe
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Nick09Short.svg/revision/latest/scale-to-width-down/250?cb=20220511010548" tvg-id="(no tvg-id)" tvg-name="Nick telugu" ,Nick telugu
+http://mumbai-edge-wwdc.smartplaytv.in/JioTV/app/ts_live_543.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/xCKgYbwk/cn.jpg" tvg-id="(no tvg-id)" tvg-name="CN telugu" ,CN telugu
+http://103.165.14.109:3500/live/166.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Khushi_TV.jpg/revision/latest?cb=20240314124325" tvg-id="(no tvg-id)" tvg-name="KUSHI TV TELUGU" ,KUSHI TV TELUGU
+http://103.165.14.109:3500/live/558.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/TYHVz9K7/discovery-kids.jpg" tvg-id="(no tvg-id)" tvg-name="DISCOVERY kids" ,DISCOVERY kids
+http://mumbai-edge-wwdc.smartplaytv.in/JioTV/app/ts_live_554.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Nickelodeon_Sonic_logo_2019.png/revision/latest/scale-to-width-down/250?cb=20250425140438" tvg-id="(no tvg-id)" tvg-name="Sonic" ,Sonic
+http://103.165.14.109:3500/live/1242.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/8z66qV80/pogo.jpg" tvg-id="(no tvg-id)" tvg-name="POGO" ,POGO
+http://103.165.14.109:3500/live/1883.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Gubbare-cl.png/revision/latest?cb=20210507104727" tvg-id="(no tvg-id)" tvg-name="gubbare" ,gubbare
+https://epiconvh.akamaized.net/live/gubbare/master.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Star_Sports_HD1.png/revision/latest?cb=20170728071015" tvg-id="(no tvg-id)" tvg-name="STAR SPORTS 1" ,STAR SPORTS 1
+https://xzyvs.shop/starx56863/1106/manifest.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Star-sports-select-1-hd.png/revision/latest?cb=20230128174313" tvg-id="(no tvg-id)" tvg-name="STAR SPORTS SELECT1 " ,STAR SPORTS SELECT1
+https://xzyvs.shop/starx56863/1123/manifest.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Star_Sports_2_Telugu_HD.png/revision/latest?cb=20250623202332" tvg-id="(no tvg-id)" tvg-name="STAR SPORTS 2 TELUGU" ,STAR SPORTS 2 TELUGU
+http://webhop.xyz:8080/live/TFR4RFZK849/RFZK849/98865.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest?cb=20221025083646" tvg-id="(no tvg-id)" tvg-name="TEN1HD" ,TEN1HD
+https://xzyvs.shop/sliv333/master.m3u8?ch=TEN1HD&id=2011671
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/SST4_Telugu.jpg/revision/latest?cb=20250714054858" tvg-id="(no tvg-id)" tvg-name="TEN4HD TELUGU " ,TEN4HD TELUGU
+https://xzyvs.shop/sliv333/master.m3u8?ch=TEN4HD&id=2011671
+#EXTINF:-1 group-title="DEVOTIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Bhakthi_TV.jpeg/revision/latest?cb=20191226132633" tvg-id="2" tvg-name="BHAKTHI TV" ,BHAKTHI TV
+https://cdn-1.pishow.tv/live/397/master.m3u8
+#EXTINF:-1 group-title="DEVOTIONAL" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SaiTV.png" tvg-id="1" tvg-name="SAI TV" ,SAI TV
+http://cache.internode.co.in:6081/SaiTV/index.m3u8
+#EXTINF:-1 group-title="DEVOTIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/CVR_Om.jpeg/revision/latest?cb=20191227041802" tvg-id="4" tvg-name="CVR OM" ,CVR OM
+http://cache.internode.co.in:6081/CVROM/index.m3u8
+#EXTINF:-1 group-title="DEVOTIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/SVBC.jpg/revision/latest?cb=20240319122808" tvg-id="(no tvg-id)" tvg-name="TTD HD" ,TTD HD
+https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8
+#EXTINF:-1 group-title="DEVOTIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Hindu_Dharmam.jpg/revision/latest?cb=20191226171245" tvg-id="3" tvg-name="Hindudharmam" ,Hindudharmam
+https://cdn-1.pishow.tv/live/959/master.m3u8
+#EXTINF:-1 group-title="DEVOTIONAL" tvg-logo="https://i.postimg.cc/zBWSKCqP/images-(15).jpg" tvg-id="(no tvg-id)" tvg-name="MahaBhakthi" ,MahaBhakthi
+http://cache.internode.co.in:6081/MahaBhakthi/index.m3u8
+#EXTINF:-1 group-title="DEVOTIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Hare_krsna_tv.png/revision/latest?cb=20210510125400" tvg-id="(no tvg-id)" tvg-name="Harekrishna" ,Harekrishna
+http://cache.internode.co.in:6081/Harekrishna/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DEVOTIONAL" tvg-logo="https://i.postimg.cc/1XwxnffD/images-(10).png" tvg-id="(no tvg-id)" tvg-name="PMC" ,PMC
+http://cache.internode.co.in:6081/PMC/index.m3u8
+#EXTINF:-1 group-title="DEVOTIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/SVBC_4.jpg/revision/latest?cb=20250628131530" tvg-id="(no tvg-id)" tvg-name="TTD test" ,TTD test
+https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8
+#EXTINF:-1 group-title="DEVOTIONAL" tvg-logo="https://i.postimg.cc/RV4pQPYp/images-(45).jpg" tvg-id="(no tvg-id)" tvg-name="ShakthiTV" ,ShakthiTV
+http://cache.internode.co.in:6081/ShakthiTV/index.m3u8
+#EXTINF:-1 group-title="DEVOTIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Divyavani_TV.jpeg/revision/latest?cb=20191226155802" tvg-id="(no tvg-id)" tvg-name="Divyavani" ,Divyavani
+http://cache.internode.co.in:6081/Divyavani/index.m3u8
+#EXTINF:-1 group-title="DEVOTIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Aradana_TV.jpeg/revision/latest?cb=20191226132059" tvg-id="(no tvg-id)" tvg-name="AradanaTV" ,AradanaTV
+https://cdn-1.pishow.tv/live/961/master.m3u8
+#EXTINF:-1 group-title="DEVOTIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Subhavaartha.jpeg/revision/latest?cb=20191230170828" tvg-id="(no tvg-id)" tvg-name="Subhavartha" ,Subhavartha
+http://cache.internode.co.in:6081/Subhavartha/index.m3u8
+#EXTINF:-1 group-title="DEVOTIONAL" tvg-logo="https://i.postimg.cc/g2fv4jJd/images-(46).jpg" tvg-id="(no tvg-id)" tvg-name="Blessing tv" ,Blessing tv
+http://cache.internode.co.in:6081/BlessingTv/index.m3u8
+#EXTINF:-1 group-title="DEVOTIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Calvary_TV.jpeg/revision/latest?cb=20191226133355" tvg-id="(no tvg-id)" tvg-name="BMC" ,BMC
+http://cache.internode.co.in:6081/BMC/index.m3u8
+#EXTINF:-1 group-title="DEVOTIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Nireekshana_TV.jpeg/revision/latest?cb=20191226174015" tvg-id="(no tvg-id)" tvg-name="Nirikshana tv" ,Nirikshana tv
+https://cdn-1.pishow.tv/live/965/master.m3u8
+#EXTINF:-1 group-title="DEVOTIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Mercy_TV.jpg/revision/latest?cb=20200304180817" tvg-id="(no tvg-id)" tvg-name="Mercy tv" ,Mercy tv
+http://cache.internode.co.in:6081/MercyTV/index.m3u8
+#EXTINF:-1 group-title="DEVOTIONAL" tvg-logo="https://i.postimg.cc/h4zQZgkQ/images-(11).png" tvg-id="(no tvg-id)" tvg-name="WIN TV" ,WIN TV
+https://cdn-4.pishow.tv/live/229/master.m3u8
+#EXTINF:-1 group-title="DEVOTIONAL" tvg-logo="https://i.postimg.cc/26PyNbsk/images-(47).jpg" tvg-id="(no tvg-id)" tvg-name="MADANI CHANNELS " ,MADANI CHANNELS
+http://starshare.one:80//live/KNR/949154529/319426.ts
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Discovery_Channel_2008.png/revision/latest?cb=20091118145933" tvg-id="(no tvg-id)" tvg-name="DISCOVERY HD " ,DISCOVERY HD
+http://mundo2.pro:80//live/ClienteSamy2m16ma/Mtv87asgh65jk/53458.ts
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/512px-New_NatGeo_People_logo.svg.png" tvg-id="(no tvg-id)" tvg-name="Nat Geo People HD" ,Nat Geo People HD
+http://cache.internode.co.in:6081/LoveNature/index.m3u8
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HISTORY_TV18_HD/images/LOGO_HD/image.png" tvg-id="(no tvg-id)" tvg-name="History TV18 HD " ,History TV18 HD
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" tvg-id="(no tvg-id)" tvg-name="National Geographic Wild East" ,National Geographic Wild East
+http://mundo2.pro:80//live/ClienteSamy2m16ma/Mtv87asgh65jk/54171.ts
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Sony_BBC_Earth_2024_HD_logo.png/revision/latest?cb=20241103091815" tvg-id="(no tvg-id)" tvg-name="BBC Earth HD" ,BBC Earth HD
+https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Discovery_Science_India_2013.png/revision/latest?cb=20240316200249" tvg-id="(no tvg-id)" tvg-name="DISCOVERY SCIENCE HD" ,DISCOVERY SCIENCE HD
+http://mundo2.pro:80//live/ClienteSamy2m16ma/Mtv87asgh65jk/53491.ts
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Animal_Planet_%282008%29.svg/revision/latest?cb=20191121135302" tvg-id="(no tvg-id)" tvg-name="Animalplanet HD" ,Animalplanet HD
+http://mundo2.pro:80//live/ClienteSamy2m16ma/Mtv87asgh65jk/54172.ts
+#EXTINF:-1 group-title="HINDI " tvg-logo="https://i.imgur.com/xWxNy3L.png" tvg-id="(no tvg-id)" tvg-name="STAR PLUS " ,STAR PLUS
+https://xzyvs.shop/starx56863/1116/manifest.m3u8
+#EXTINF:-1 group-title="HINDI " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/ZEE_TV_HD_January_2017.svg/revision/latest/scale-to-width-down/250?cb=20250709151402" tvg-id="(no tvg-id)" tvg-name="ZEE TV HD" ,ZEE TV HD
+https://xzyvs.shop/zee55/index.m3u8?id=0-9-zeetvhd
+#EXTINF:-1 group-title="HINDI " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest/scale-to-width-down/250?cb=20221023215435" tvg-id="(no tvg-id)" tvg-name="SONY HD" ,SONY HD
+https://xzyvs.shop/sliv333/master.m3u8?ch=SETHD&id=2011671
+#EXTINF:-1 group-title="HINDI " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Zee_Cinema_2017_old.png/revision/latest?cb=20180909122403" tvg-id="(no tvg-id)" tvg-name="ZEE CENIMA " ,ZEE CENIMA
+https://xzyvs.shop/zee55/index.m3u8?id=0-9-zeecinemahd
+#EXTINF:-1 group-title="HINDI " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Colors_2016.svg/revision/latest?cb=20210207143131" tvg-id="(no tvg-id)" tvg-name="COLOURS " ,COLOURS
+http://103.165.14.109:3500/live/1368.m3u8
+#EXTINF:-1 group-title="HINDI " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545" tvg-id="(no tvg-id)" tvg-name="B4U MOVIE'S " ,B4U MOVIE'S
+https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="HINDI " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/%26TV_HD_%282025%29.svg/revision/latest/scale-to-width-down/250?cb=20250608085702" tvg-id="(no tvg-id)" tvg-name="& tv" ,& tv
+https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
+#EXTINF:-1 group-title="HINDI " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Colors_Super.png/revision/latest?cb=20240314081037" tvg-id="(no tvg-id)" tvg-name="SUPER COLOURS " ,SUPER COLOURS
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8?ads.vf=kU8ru-Yl4zG
+#EXTINF:-1 group-title="HINDI " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Colors_Cineplex.png/revision/latest?cb=20200105090606" tvg-id="(no tvg-id)" tvg-name="COLOURS CENIPLEX" ,COLOURS CENIPLEX
+http://mumbai-edge-wwdc.smartplaytv.in/JioTV/app/ts_live_482.m3u8
+#EXTINF:-1 group-title="HINDI " tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png" tvg-id="(no tvg-id)" tvg-name="Zee Cine Classic" ,Zee Cine Classic
+https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
+#EXTINF:-1 group-title="HINDI " tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png" tvg-id="(no tvg-id)" tvg-name="Zee Comedy Nation" ,Zee Comedy Nation
+https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8
+#EXTINF:-1 group-title="HINDI " tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png" tvg-id="(no tvg-id)" tvg-name="Zee Dil Se " ,Zee Dil Se
+https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
+#EXTINF:-1 group-title="HINDI " tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zhornights.png" tvg-id="(no tvg-id)" tvg-name="Zee Horror Nights" ,Zee Horror Nights
+https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
+#EXTINF:-1 group-title="HINDI " tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL/images/LOGO_HD/image.png" tvg-id="(no tvg-id)" tvg-name="Dangal TV " ,Dangal TV
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="HINDI " tvg-logo="https://www.lyngsat.com/logo/tv/dd/dangal-2-in.png" tvg-id="(no tvg-id)" tvg-name="Dangal 2 " ,Dangal 2
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="HINDI " tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_MUSIC/images/LOGO_HD/image.png" tvg-id="(no tvg-id)" tvg-name="Public Music " ,Public Music
+https://cdn-3.pishow.tv/live/441/master.m3u8
+#EXTINF:-1 group-title="HINDI " tvg-logo="https://i.imgur.com/KSxPLJA.png" tvg-id="(no tvg-id)" tvg-name="B4U_Music" ,B4U_Music
+https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+#EXTINF:-1 group-title="HINDI " tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Music_India.png" tvg-id="(no tvg-id)" tvg-name="Music India " ,Music India
+https://cdn-2.pishow.tv/live/226/master.m3u8
+#EXTINF:-1 group-title="HINDI " tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9XM/images/LOGO_HD/image.png" tvg-id="(no tvg-id)" tvg-name="9xm" ,9xm
+http://cache.internode.co.in:6081/9xm/index.m3u8
+#EXTINF:-1 group-title="HINDI " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/9x_Jalwa.png/revision/latest?cb=20230610200008" tvg-id="(no tvg-id)" tvg-name="9xmjalwa" ,9xmjalwa
+http://cache.internode.co.in:6081/9xmjalwa/index.m3u8
+#EXTINF:-1 group-title="HINDI " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Mh-one.png/revision/latest?cb=20230126181929" tvg-id="(no tvg-id)" tvg-name="Mh1" ,Mh1
+https://mumt01.tangotv.in/MHONEDILSE/index.m3u8
+#EXTINF:-1 group-title="HINDI " tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png" tvg-id="(no tvg-id)" tvg-name="ZOOM" ,ZOOM
+https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
+#EXTINF:-1 group-title="HINDI " tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHOWBOX/images/LOGO_HD/image.png" tvg-id="(no tvg-id)" tvg-name="showbox" ,showbox
+https://epiconvh.akamaized.net/live/showbox/master.m3u8
+#EXTINF:-1 group-title="ENGLISH " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Star_Movies_HD_India.png/revision/latest?cb=20110928174318" tvg-id="(no tvg-id)" tvg-name="STAR MOVIES HD" ,STAR MOVIES HD
+https://xzyvs.shop/starx56863/1104/manifest.m3u8
+#EXTINF:-1 group-title="ENGLISH " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png/revision/latest?cb=20240320141227" tvg-id="(no tvg-id)" tvg-name="SONY PIX HD" ,SONY PIX HD
+http://103.165.14.109:3500/live/762.m3u8
+#EXTINF:-1 group-title="ENGLISH " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/WB_india.jpg/revision/latest?cb=20200118195908" tvg-id="(no tvg-id)" tvg-name="WB" ,WB
+http://mundo2.pro:80//live/ClienteSamy2m16ma/Mtv87asgh65jk/1260.ts
+#EXTINF:-1 group-title="ENGLISH " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest?cb=20201126064846" tvg-id="(no tvg-id)" tvg-name="AXN" ,AXN
+http://mundo2.pro:80//live/ClienteSamy2m16ma/Mtv87asgh65jk/1257.ts
+#EXTINF:-1 group-title="ENGLISH " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest?cb=20250930051253" tvg-id="(no tvg-id)" tvg-name="HBO" ,HBO
+http://mundo2.pro:80//live/ClienteSamy2m16ma/Mtv87asgh65jk/1240.ts
