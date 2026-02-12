@@ -83,8 +83,10 @@ http://cache.internode.co.in:6081/VinodamHD/index.m3u8
 http://cache.internode.co.in:6081/ShreyasMusic/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/HLk0xrZX/IMG-20260131-000000.jpg" tvg-id="(no tvg-id)" tvg-name=" supertv" ,supertv
 http://cache.internode.co.in:6081/supertv/tracks-v1a1/mono.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/W3hrwMjZ/IMG-20260130-225021.jpg" tvg-id="(no tvg-id)" tvg-name="SVC HD" ,SVC HD
 http://cache.internode.co.in:6081/SVC/index.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/VLsZQhYD/images-(18).jpg" tvg-id="(no tvg-id)" tvg-name="RKTV" ,RKTV
 http://cache.internode.co.in:6081/RKTV/index.m3u8
 https://vvsolutions.in/rktv_347/rktv_347.m3u8
@@ -99,6 +101,7 @@ http://cache.internode.co.in:6081/GeeTV/index.m3u8
 https://mumbai-edge.smartplaytv.in/GeeTV/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/BZwrQsXw/IMG-20260130-233611.jpg" tvg-id="(no tvg-id)" tvg-name="ANJALI TV" ,ANJALI TV
 http://cache.internode.co.in:6081/AnjaliTV/index.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/MKYq6gJw/IMG-20260130-235012.jpg" tvg-id="(no tvg-id)" tvg-name="BCT NEWS" ,BCT NEWS
 http://cache.internode.co.in:6081/BCTNews/index.m3u8
 http://31.97.224.197/hls/SriramTV.m3u8
@@ -110,19 +113,25 @@ http://cache.internode.co.in:6081/SSLCKathalu/index.m3u8
 https://mercury.streambridge.link:8042/telugu/garudatv/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/PqCBGRQ9/images-(17).jpg" tvg-id="(no tvg-id)" tvg-name="BathukammaTV" ,BathukammaTV
 http://cache.internode.co.in:6081/BathukammaTV/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/HnxF9Wkb/IMG-20260131-000541.jpg" tvg-id="(no tvg-id)" tvg-name="Janapadalu" ,Janapadalu
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/HnxF9Wkb/IMG-20260131-000541.jpg" tvg-id="(no tvg-id)" tvg-name="Janapadalu" ,జానపదాలు
 http://cache.internode.co.in:6081/Janapadalu/index.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/y8wfwYpg/IMG-20260130-235310.jpg" tvg-id="(no tvg-id)" tvg-name="DS9" ,DS9
 http://cache.internode.co.in:6081/ds9e/index.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/MTXhyKT4/IMG-20260131-000759.jpg" tvg-id="(no tvg-id)" tvg-name="MastiMusic" ,MastiMusic
 http://cache.internode.co.in:6081/MastiMusic/index.m3u8
 http://cache.internode.co.in:6081/BCTClassic/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/HnR5Vjyb/IMG-20260130-235544.jpg" tvg-id="(no tvg-id)" tvg-name="BCT MUSIC " ,BCT MUSIC
 http://cache.internode.co.in:6081/BCTMusic/index.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/C5GJ8Wj4/IMG-20260131-000934.jpg" tvg-id="(no tvg-id)" tvg-name="SSLCMusic" ,SSLCMusic
 http://cache.internode.co.in:6081/SSLCMusic/index.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/nhkkk75G/1770074949865.png" tvg-id="(no tvg-id)" tvg-name="DS9 MUSIC" ,DS9 MUSIC
 http://cache.internode.co.in:6081/Ds9music/index.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/ABN_Andhra_Jyothi.jpeg/revision/latest?cb=20191226131028" tvg-id="(no tvg-id)" tvg-name="ABN" ,ABN
 http://cache.internode.co.in:6081/ABNAJ/index.m3u8
 http://ak.dets.fun:3500/live/666.m3u8
