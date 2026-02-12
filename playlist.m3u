@@ -5,10 +5,10 @@ http://activeiptv.sbs:80/play/live.php?mac=00:1A:79:BD:80:8F&stream=281780&exten
 http://cache.internode.co.in:6081/ZeeTeluguHD/tracks-v2a1/mono.m3u8
 http://starshare.one:80//live/Suryaaa/SURYAAAA/98894.ts
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Star_Maa_HD.jpeg/revision/latest/scale-to-width-down/250?cb=20200817123350" tvg-id="(no tvg-id)" tvg-name="MAATV HD" ,MAATV HD
+https://xzyvs.shop/starx56863/1112/manifest.m3u8
 https://xzyvs.shop/starx56863/1138/manifest.m3u8
 http://activeiptv.sbs:80/play/live.php?mac=00:1A:79:BD:80:8F&stream=281777&extension=ts&play_token=98LxmV4WEX
 https://xzyvs.shop/starx56863/1138/manifest.m3u8
-https://xzyvs.shop/starx56863/1112/manifest.m3u8
 http://starshare.one:80//live/Suryaaa/SURYAAAA/98886.ts
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/HD.GEM.jpg/revision/latest?cb=20240314121537" tvg-id="(no tvg-id)" tvg-name="GEMINI HD " ,GEMINI HD
 http://datahub11.com/live/asdf/1234/23315.ts
@@ -33,7 +33,7 @@ http://datahub11.com/live/asdf/1234/9016.ts
 http://cache.internode.co.in:6081/ZeeCinemaluHD/index.m3u8
 http://starshare.one:80//live/Suryaaa/SURYAAAA/98896.ts
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Gemini_Movies_HD.jpg/revision/latest?cb=20171230113018" tvg-id="(no tvg-id)" tvg-name="GEMINI MOVIES JD" ,GEMINI MOVIES JD
-http://cache.internode.co.in:6081/GeminiMoviesHD/tracks-v1a1/mono.m3u8
+http://117.247.19.220:8888/stream/xbs/geminimovieshd/stream_0.m3u8?u=streamer&p=c3b6c015c441880f1b6a5648eb91341cbfa3505f0004d4b0d30a3d9a20313e27
 http://datahub11.com/live/asdf/1234/23797.ts
 http://starshare.one:80//live/Suryaaa/SURYAAAA/212.ts
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/Cxr0V7Fw/IMG-20260201-234230.jpg" tvg-id="(no tvg-id)" tvg-name="ETVCOMEDY" ,ETVCOMEDY
