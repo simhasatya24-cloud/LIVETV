@@ -92,6 +92,7 @@ https://cdn-1.pishow.tv/live/276/master.m3u8
 http://ak.dets.fun:3500/live/1274.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/L638bnyJ/IMG-20260130-232217.jpg" tvg-id="(no tvg-id)" tvg-name="SDTV" ,SDTV
 http://cache.internode.co.in:6081/SDTV/index.m3u8
+https://venus.streambridge.link:8047/telugu/vcnentertainment/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/nz5nRKFF/IMG-20260131-075027.jpg" tvg-id="(no tvg-id)" tvg-name="GEETV" ,GEETV
 http://cache.internode.co.in:6081/GeeTV/index.m3u8
 https://mumbai-edge.smartplaytv.in/GeeTV/index.m3u8
@@ -114,6 +115,7 @@ http://cache.internode.co.in:6081/Janapadalu/index.m3u8
 http://cache.internode.co.in:6081/ds9e/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/MTXhyKT4/IMG-20260131-000759.jpg" tvg-id="(no tvg-id)" tvg-name="MastiMusic" ,MastiMusic
 http://cache.internode.co.in:6081/MastiMusic/index.m3u8
+http://cache.internode.co.in:6081/BCTClassic/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/HnR5Vjyb/IMG-20260130-235544.jpg" tvg-id="(no tvg-id)" tvg-name="BCT MUSIC " ,BCT MUSIC
 http://cache.internode.co.in:6081/BCTMusic/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/C5GJ8Wj4/IMG-20260131-000934.jpg" tvg-id="(no tvg-id)" tvg-name="SSLCMusic" ,SSLCMusic
