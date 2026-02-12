@@ -4,8 +4,8 @@
 #EXTINF:-1 tvg-id="1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Zee_Telugu_HD_%282025%29.svg/revision/latest/scale-to-width-down/250?cb=20250609050138",zee telugu HD
 http://cache.internode.co.in:6081/ZeeTeluguHD/index.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",RK TV
-http://cache.internode.co.in:6081/RKTV/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Gemini_Life.jpg/revision/latest?cb=20240315132124",GEMINI LIFE
+https://livestream.sunnxt.com/a4b4f71a8b4344f3a280e906657a517a/GeminiLifeB_IN_index.mpd
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/3Nv6y4qY/images-13.jpg",Vinodam HD
 http://cache.internode.co.in:6081/VinodamHD/index.m3u8
