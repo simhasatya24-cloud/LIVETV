@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Zee_Telugu_HD_%282025%29.svg/revision/latest/scale-to-width-down/250?cb=20250609050138" tvg-id="(no tvg-id)" tvg-name="ZEETELUGU HD" ,ZEETELUGU HD
-http://activeiptv.sbs:80/play/live.php?mac=00:1A:79:BD:80:8F&stream=281780&extension=ts&play_token=qrWskFC3z9
 http://cache.internode.co.in:6081/ZeeTeluguHD/tracks-v2a1/mono.m3u8
 http://starshare.one:80//live/Suryaaa/SURYAAAA/98894.ts
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Star_Maa_HD.jpeg/revision/latest/scale-to-width-down/250?cb=20200817123350" tvg-id="(no tvg-id)" tvg-name="MAATV HD" ,MAATV HD
@@ -21,7 +20,6 @@ http://cache.internode.co.in:6081/ETVHD/index.m3u8
 https://xzyvs.shop/etv1410/1973/manifest.m3u8
 http://starshare.one:80//live/Suryaaa/SURYAAAA/9017.ts
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Star_Maa_Movies.jpg/revision/latest?cb=20240314164039" tvg-id="(no tvg-id)" tvg-name="MAA MOVIES" ,MAA MOVIES
-http://activeiptv.sbs/play/live.php?mac=00:1A:79:BD:80:8F&stream=281778&extension=ts&play_token=Kn0VPdOiYz
 http://datahub11.com/live/asdf/1234/9015.ts
 https://activeiptv.sbs:80/play/live.php?mac=00:1A:79:BD:80:8F&stream=281778&extension=ts&play_token=dgEXtDYXEL
 http://starshare.one:80//live/Suryaaa/SURYAAAA/9015.ts
