@@ -71,6 +71,7 @@ https://mumt01.tangotv.in/STUDIOYUVA/index.m3u8
 http://ak.dets.fun:3500/live/1799.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/Y9gLXB9D/images-(49).jpg" tvg-id="(no tvg-id)" tvg-name="VINODHAM HD" ,VINODHAM HD
 http://cache.internode.co.in:6081/VinodamHD/index.m3u8
+http://cache.internode.co.in:6081/ShreyasMusic/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/HLk0xrZX/IMG-20260131-000000.jpg" tvg-id="(no tvg-id)" tvg-name=" supertv" ,supertv
 http://cache.internode.co.in:6081/supertv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/W3hrwMjZ/IMG-20260130-225021.jpg" tvg-id="(no tvg-id)" tvg-name="SVC HD" ,SVC HD
@@ -92,8 +93,10 @@ http://cache.internode.co.in:6081/AnjaliTV/index.m3u8
 http://cache.internode.co.in:6081/BCTNews/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/qMry5q2F/images-(48).jpg" tvg-id="(no tvg-id)" tvg-name="Cinemalu" ,Cinemalu
 http://cache.internode.co.in:6081/SSLCCinemalu/index.m3u8
+http://cache.internode.co.in:6081/PeopleMediaPoint/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/nzhz4ZK8/IMG-20260130-231910.jpg" tvg-id="(no tvg-id)" tvg-name="SSLCKathalu" ,SSLCKathalu
 http://cache.internode.co.in:6081/SSLCKathalu/index.m3u8
+https://mercury.streambridge.link:8042/telugu/garudatv/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/PqCBGRQ9/images-(17).jpg" tvg-id="(no tvg-id)" tvg-name="BathukammaTV" ,BathukammaTV
 http://cache.internode.co.in:6081/BathukammaTV/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/HnxF9Wkb/IMG-20260131-000541.jpg" tvg-id="(no tvg-id)" tvg-name="Janapadalu" ,Janapadalu
