@@ -1,20 +1,32 @@
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Zee_Telugu_HD_%282025%29.svg/revision/latest/scale-to-width-down/250?cb=20250609050138" tvg-id="(no tvg-id)" tvg-name="ZEETELUGU HD" ,ZEETELUGU HD
 http://cache.internode.co.in:6081/ZeeTeluguHD/tracks-v2a1/mono.m3u8
+http://activeiptv.sbs:80/play/live.php?mac=00:1A:79:BD:80:8F&stream=281780&extension=ts&play_token=qrWskFC3z9
+http://starshare.one:80//live/Suryaaa/SURYAAAA/98894.ts
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Star_Maa_HD.jpeg/revision/latest/scale-to-width-down/250?cb=20200817123350" tvg-id="(no tvg-id)" tvg-name="MAATV HD" ,MAATV HD
 http://activeiptv.sbs:80/play/live.php?mac=00:1A:79:BD:80:8F&stream=281777&extension=ts&play_token=98LxmV4WEX
+https://xzyvs.shop/starx56863/1138/manifest.m3u8
+http://starshare.one:80//live/Suryaaa/SURYAAAA/98886.ts
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/HD.GEM.jpg/revision/latest?cb=20240314121537" tvg-id="(no tvg-id)" tvg-name="GEMINI HD " ,GEMINI HD
+https://livestream10.sunnxt.com/DolbyVision/GeminiTV_HDR/GeminiTV_HDR_Endpoints/GeminiTV-HDR10-IN-index.m3u8
 http://starshare.one:80//live/Suryaaa/SURYAAAA/23315.ts
+http://activeiptv.sbs:80/play/live.php?mac=00:1A:79:BD:80:8F&stream=281774&extension=ts&play_token=NJ1xYg0Xsx&sn2=
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/ETV_HD.png/revision/latest?cb=20171207205943" tvg-id="(no tvg-id)" tvg-name="ETV HD" ,ETV HD
 https://d2z3q47xzd535o.cloudfront.net/v1/manifest/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264-2_cloud_in/f520bb4e-4a3b-4c66-bd6e-d036c9dc4a65/3.m3u8
+http://cache.internode.co.in:6081/ETVHD/index.m3u8
+http://starshare.one:80//live/Suryaaa/SURYAAAA/9017.ts
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Star_Maa_Movies.jpg/revision/latest?cb=20240314164039" tvg-id="(no tvg-id)" tvg-name="MAA MOVIES" ,MAA MOVIES
+https://activeiptv.sbs:80/play/live.php?mac=00:1A:79:BD:80:8F&stream=281778&extension=ts&play_token=dgEXtDYXEL
 http://starshare.one:80//live/Suryaaa/SURYAAAA/9015.ts
+http://i511hq.xyz:80/S6XW07LR7PP5UDM/vAOevhFJfe/34438
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/y86SQZCC/images-(44).jpg" tvg-id="(no tvg-id)" tvg-name="SITI CABLE" ,SITI CABLE
 http://starshare.one:80//live/Suryaaa/SURYAAAA/136465.ts
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Zee_Cinemalu_HD_%282025%29.svg/revision/latest/scale-to-width-down/250?cb=20250609125017" tvg-id="(no tvg-id)" tvg-name="ZEE CENIMALU HD" ,ZEE CENIMALU HD
 http://cache.internode.co.in:6081/ZeeCinemaluHD/index.m3u8
+http://starshare.one:80//live/Suryaaa/SURYAAAA/98896.ts
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Gemini_Movies_HD.jpg/revision/latest?cb=20171230113018" tvg-id="(no tvg-id)" tvg-name="GEMINI MOVIES JD" ,GEMINI MOVIES JD
 http://cache.internode.co.in:6081/GeminiMoviesHD/tracks-v1a1/mono.m3u8
+http://starshare.one:80//live/Suryaaa/SURYAAAA/212.ts
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/Cxr0V7Fw/IMG-20260201-234230.jpg" tvg-id="(no tvg-id)" tvg-name="ETVCOMEDY" ,ETVCOMEDY
 https://cc-wie8j8y69d2uy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wie8j8y69d2uy/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Etv_Plus_HD.jpeg/revision/latest?cb=20200311103105" tvg-id="(no tvg-id)" tvg-name="ETV PLUS" ,ETV PLUS
@@ -22,12 +34,17 @@ http://cache.internode.co.in:6081/ETVPLUS/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/ETV_Cinema_HD.jpg/revision/latest/scale-to-width-down/250?cb=20191115071911" tvg-id="(no tvg-id)" tvg-name="ETV CENIMA" ,ETV CENIMA
 http://cache.internode.co.in:6081/ETVCINEMA/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/HD.GMU.jpg/revision/latest?cb=20240314123740" tvg-id="(no tvg-id)" tvg-name="GEMINI MUSIC" ,GEMINI MUSIC
+http://cache.internode.co.in:6081/GeminiMusicHD/index.m3u8
 http://starshare.one:80//live/Suryaaa/SURYAAAA/213.ts
+http://15.235.144.106:14054
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/StarMaa_Music.jpg/revision/latest?cb=20250713194918" tvg-id="(no tvg-id)" tvg-name="STAR MAA MUSIC TELUGU" ,STAR MAA MUSIC TELUGU
 http://activeiptv.sbs/play/live.php?mac=00:1A:79:BD:80:8F&stream=281778&extension=ts&play_token=Kn0VPdOiYz
+https://xzyvs.shop/starx56863/1129/manifest.m3u8
+http://starshare.one:80//live/Suryaaa/SURYAAAA/57772.ts
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/wB6RrRCS/IMG-20260202-073016.jpg" tvg-id="(no tvg-id)" tvg-name="ETV MUSIC " ,ETV MUSIC
 https://cc-szivnms4rlah6.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szivnms4rlah6/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Gemini_Comedy.jpg/revision/latest?cb=20240314123939" tvg-id="(no tvg-id)" tvg-name="GEMINI COMEDY " ,GEMINI COMEDY
+http://103.165.14.109:3500/live/729.m3u8
 http://starshare.one:80//live/Suryaaa/SURYAAAA/9042.ts
 #EXTINF:-1 group-title="ENTERTAINMENT " tvg-logo="https://i.postimg.cc/fbT3JCpy/IMG-20260131-171912.jpg" tvg-id="(no tvg-id)" tvg-name="ETV JOSH" ,ETV JOSH
 https://cc-wie8j8y69d2uy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wie8j8y69d2uy/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
